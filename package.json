@@ -1,0 +1,12 @@
+{
+  "name": "oz-sapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.42"
+  }
+}
